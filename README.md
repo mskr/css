@@ -21,3 +21,5 @@ body canvas {
 ```
 
 css.compile() => index.html
+
+Lifecycle, events and states (:hover etc).
