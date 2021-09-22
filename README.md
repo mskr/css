@@ -10,8 +10,8 @@ body h1 {
   content: 'Hello';
 }
 
-body my-component {
-  onclick: alert('Hello');
+body my-component[onclick=alert('Hello')] {
+  content: var(--clickCount);
 }
 
 body canvas {
