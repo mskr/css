@@ -20,3 +20,4 @@ body canvas {
 }
 ```
 
+css.compile() => index.html
