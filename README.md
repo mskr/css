@@ -50,7 +50,7 @@ You have components and components pass down properties and emit events.
 - Responsiveness (Media Queries)
   - @media
 - JS
-  - document.styleSheets.item(i).rules.item(i).styleSheet
+  - document.styleSheets.item(i).rules.item(j).styleSheet
   - element.style
   - pointer-events
 - Geometry (box-sizing)
@@ -70,10 +70,10 @@ You have components and components pass down properties and emit events.
   - border-color
   - box-shadow
 - Graphics
+  - Gradients
   - filter
   - transform
   - SVG
-  - Gradients
 - Animation
   - animation
   - transition
