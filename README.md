@@ -64,6 +64,10 @@ You have components and components pass down properties and emit events.
   - right
   - top
   - bottom
+- Layout (display)
+  - align-items
+  - justify-content
+  - flex-direction
 - Color
   - background
   - color
@@ -77,10 +81,6 @@ You have components and components pass down properties and emit events.
 - Animation
   - animation
   - transition
-- Layout (display)
-  - align-items
-  - justify-content
-  - flex-direction
 - Scrolling (overflow)
   - scroll-behavior
   - scroll-snap
