@@ -24,6 +24,8 @@ css.compile() => index.html
 
 Lifecycle, events and states (:hover etc).
 
+You have components and components pass down properties and emit events.
+
 - Tree Navigation (Selectors)
   - Element
   - id
