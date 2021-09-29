@@ -86,6 +86,7 @@ You have components and components pass down properties and emit events.
   - scroll-snap
   - scroll-margin
   - scroll-padding
+  - background-attachment
 - Typography
   - font-family
   - font-variant
