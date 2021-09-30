@@ -24,6 +24,7 @@ body canvas {
 ### `css styles.css` => index.html
 - CSS file is left as it is
 - You can edit it in the dev tools of your browser
+- Style changes will appear live
 - Structural changes require you to start a watcher to see them live
 - Changes to index.html from outside will update your CSS (two-way reaction)
 - Take the CSS with you, HTML not needed
