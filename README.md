@@ -1,6 +1,7 @@
 # css
 CSS on steroids
 
+styles.css
 ```css
 body {
   margin: 0;
@@ -20,7 +21,12 @@ body canvas {
 }
 ```
 
-css.compile() => index.html
+### `css styles.css` => index.html
+- CSS file is left as it is
+- You can edit it in the dev tools of your browser
+- Structural changes require you to start a watcher to see them live
+- Changes to index.html from outside will update your CSS (two-way reaction)
+- Take the CSS with you, HTML not needed
 
 Lifecycle, events and states (:hover etc).
 
