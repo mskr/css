@@ -72,6 +72,7 @@ You have components and components pass down properties and emit events.
   - right
   - top
   - bottom
+  - z-index
 - Layout (display)
   - align-items
   - justify-content
