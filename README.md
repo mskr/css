@@ -38,10 +38,12 @@ You have components and components pass down properties and emit events.
   - id
   - class
   - attribute
+  - pattern matching/globs
   - state
   - pseudo class
   - descendent
   - direct child
+  - first and last child
   - :root
 - Variables (Custom Properties)
   - --my-variable
