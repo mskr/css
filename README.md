@@ -26,7 +26,7 @@ body canvas {
 - You can edit it in the dev tools of your browser
 - Style changes will appear live
 - Structural changes require you to start a watcher to see them live
-- Changes to index.html from outside will update your CSS (two-way reaction)
+- Changes to index.html from outside will update your CSS (two-way tooling)
 - Take the CSS with you, HTML not needed
 
 Lifecycle, events and states (:hover etc).
