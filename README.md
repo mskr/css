@@ -89,8 +89,9 @@ You have components and components pass down properties and emit events.
   - perspective
   - SVG
 - Animation
-  - animation
   - transition
+  - animation
+  - @keyframes
 - Scrolling (overflow)
   - scroll-behavior
   - scroll-snap
