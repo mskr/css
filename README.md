@@ -60,6 +60,7 @@ You have components and components pass down properties and emit events.
   - document.styleSheets.item(i).rules.item(j).styleSheet
   - element.style
   - pointer-events
+  - touch-action
 - Geometry (box-sizing)
   - margin
   - border
