@@ -86,6 +86,7 @@ You have components and components pass down properties and emit events.
   - Gradients
   - filter
   - transform
+  - perspective
   - SVG
 - Animation
   - animation
