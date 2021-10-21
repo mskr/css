@@ -67,6 +67,7 @@ You have components and components pass down properties and emit events.
   - padding
   - width
   - height
+  - border-radius
 - Position (position)
   - left
   - right
