@@ -86,6 +86,7 @@ You have components and components pass down properties and emit events.
   - border-color
   - box-shadow
 - Graphics
+  - Clips
   - Gradients
   - filter
   - transform
