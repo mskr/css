@@ -121,5 +121,6 @@ You have components and components pass down properties and emit events.
   - cursor
   - caret-shape
   - caret-color
+  - user-select
   
   #low-code-digitalization #self-modifying-software
