@@ -29,7 +29,7 @@ body canvas {
 - Changes to index.html from outside will update your CSS (two-way tooling)
 - Take the CSS with you, HTML not needed
 
-Can be implemented as "always-on" compiler in watch-mode with (LSP)[https://github.com/sublimelsp/LSP-css].
+Can be implemented as "always-on" compiler in watch-mode with [LSP](https://github.com/sublimelsp/LSP-css).
 
 Lifecycle, events and states (:hover etc).
 
