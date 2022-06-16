@@ -43,7 +43,7 @@ You have components and components pass down properties and emit events.
   - attribute
   - pattern matching/globs
   - state
-  - pseudo class
+  - pseudo class (hover, active, focus...)
   - descendent
   - direct child
   - first and last child
