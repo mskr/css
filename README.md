@@ -36,6 +36,10 @@ Lifecycle, events and states (:hover etc).
 
 You have components and components pass down properties and emit events.
 
+A new positioning model (display: physical) with gravity, collisions and fluid drag'n'drop.
+
+In fluid drag'n'drop you lift elements out of their force balance by click and hold, which makes their shape change according to curvature flow.
+
 - Tree Navigation (Selectors)
   - Element
   - id
